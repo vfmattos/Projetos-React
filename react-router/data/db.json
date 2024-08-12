@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9,
+      "description": "Camisa polo"
+    },
+    {
+      "id": "2",
+      "name": "Calça",
+      "price": 43.0,
+      "description": "Calça jeans"
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9,
+      "description": "Boné de malha"
+    }
+  ]
+}
