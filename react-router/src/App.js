@@ -19,7 +19,7 @@ function App() {
         <SearchForm />
 
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home name="vitor"/>} />
           <Route path="about" element={<About />} />
           <Route path="products/:id/info" element={<Info />} />
           <Route path="products/:id" element={<Product />} />
